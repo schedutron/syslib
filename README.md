@@ -12,3 +12,7 @@ The basic idea is that I want to be able to easily script the installation of Py
 - Services Interaction (properly)
 - Parse common system files.
 - Instsall a service into nginx, following the conventions.
+
+## Ideas
+
+- Use supervisord to run long-running tasks?
