@@ -11,7 +11,7 @@ The basic idea is that I want to be able to easily script the installation of Py
 - Process Table Interaction
 - Services Interaction (properly)
 - Parse common system files.
-- Instsall a service into nginx, following the conventions.
+- Install a service into nginx, following the conventions.
 
 ## Ideas
 
